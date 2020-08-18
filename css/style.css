@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+	font-size:30px;
+	font-weight:600;
+	color:#fff !important;
+}
+.navbar-nav .nav-link {
+   font-size:18px;
+   color:#fff;
+   padding:0 15px !important;
+}
+
+.service{
+	padding:50px 0;
+}
+.iteam{
+	padding:100px 0;
+}
+.nav-link{
+	font-size:18px;
+	color:#000;
+	font-weight:500;
+}
+form, .custom-btn{
+	margin-top:50px;
+}
+.list-group-item{
+	font-size:22px;
+	font-weight:300;
+}
+
+footer{
+	padding:20px 0;
+	background:#f6fdf9;
+}
